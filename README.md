@@ -140,7 +140,7 @@ or AlloyDB/Cloud SQL with pgvector). Delete the service when you're done to avoi
 
 ---
 
-## 5. Design decisions (good interview material)
+## 5. Design decisions 
 
 - **Why two stores?** Numbers like "length = 1863" should come from SQL, not from fuzzy vector search.
   Explanations live in text and need semantic search. Table rows are *also* embedded as sentences, so a
