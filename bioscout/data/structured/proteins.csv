@@ -1,0 +1,11 @@
+accession,name,gene,organism,length,function,location
+P69905,Hemoglobin subunit alpha,HBA1,Homo sapiens,142,Carries oxygen from the lungs to tissues as part of the hemoglobin tetramer,Cytoplasm (red blood cells)
+P68871,Hemoglobin subunit beta,HBB,Homo sapiens,147,Carries oxygen as part of the hemoglobin tetramer; site of the sickle-cell mutation,Cytoplasm (red blood cells)
+P01308,Insulin,INS,Homo sapiens,110,Hormone that lowers blood glucose by promoting glucose uptake into cells,Secreted
+P61626,Lysozyme C,LYZ,Homo sapiens,148,Enzyme that breaks down bacterial cell walls,Secreted
+P0DP23,Calmodulin-1,CALM1,Homo sapiens,149,Calcium sensor that regulates many enzymes and ion channels,Cytoplasm
+P04637,Cellular tumor antigen p53,TP53,Homo sapiens,393,Tumor suppressor transcription factor that triggers cell-cycle arrest or apoptosis after DNA damage,Nucleus
+P00533,Epidermal growth factor receptor,EGFR,Homo sapiens,1210,Receptor tyrosine kinase that drives cell growth signalling; drug target in lung cancer,Cell membrane
+P38398,Breast cancer type 1 susceptibility protein,BRCA1,Homo sapiens,1863,E3 ubiquitin ligase involved in DNA double-strand break repair,Nucleus
+P02769,Albumin,ALB,Bos taurus,607,Main plasma carrier protein for fatty acids and drugs,Secreted
+P42212,Green fluorescent protein,GFP,Aequorea victoria,238,Emits green light; widely used as a fluorescent tag in cell biology,Cytoplasm
